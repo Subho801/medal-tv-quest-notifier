@@ -332,6 +332,123 @@
       "reward_desc": "Medal Exclusive In-Game Reward",
       "startsAt": 1781377200000,
       "endsAt": null
+    },
+    "65zY3nS9FJ": {
+      "id": "65zY3nS9FJ",
+      "title": "Get A Free Trial of Medal Premium!",
+      "quest_text": "Clip Terrinoth, get medal premium",
+      "reward_name": "2 Days of Medal Premium",
+      "reward_desc": "No reward description",
+      "startsAt": 1781263800000,
+      "endsAt": 1781754900000
+    },
+    "5jroPMSGPU": {
+      "id": "5jroPMSGPU",
+      "title": "Operation One x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Medal Charm + Community Capsule",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781269800000,
+      "endsAt": null
+    },
+    "58RX9UCQ1F": {
+      "id": "58RX9UCQ1F",
+      "title": "BEAT BOUNCE x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Glasses Accessory",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781283600000,
+      "endsAt": null
+    },
+    "4YAbNbneGx": {
+      "id": "4YAbNbneGx",
+      "title": "War Tycoon | FN-2000",
+      "quest_text": "Not provided",
+      "reward_name": "FN-2000",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781361000000,
+      "endsAt": 1783782000000
+    },
+    "61CvNdestM": {
+      "id": "61CvNdestM",
+      "title": "Noob Tower Defense x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Medal Clipper Unit",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781377200000,
+      "endsAt": null
+    },
+    "64Fjd6gmT1": {
+      "id": "64Fjd6gmT1",
+      "title": "Classic Gun Game x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Skin Crate + Medal Kill Effect",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781380800000,
+      "endsAt": null
+    },
+    "5H9HoVzIgT": {
+      "id": "5H9HoVzIgT",
+      "title": "Quest Bound Achievement | June 14, 2026",
+      "quest_text": "users must complete and redeem current active in-game Roblox integration rewards. The Medal quests that count for this quest are in the following games on Roblox: Violence District, Weird Gun Game, Airsoft Battles, Ground War, Survive Zombie Arena, Energy Assault, Warfare Tycoon, Zombie War Tycoon, Crab Royale, Last Letter, MM2 Aim Trainer, Burrowed Fears, Case Paradise, War Tycoon FN-2000, Bite By Night, Violence District, Beat Bounce, Operation One, Superstar Baseball, +1 Speed Keyboard Escape, Pixel Quest, Hell Rails, Combat Initiation, Shadow Battlegrounds, Noob Tower Defense, Dive Down, Classic Gun Game",
+      "reward_name": "Quest Bound Achievement",
+      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
+      "startsAt": 1781460000000,
+      "endsAt": 1782878340000
+    },
+    "5VHKcFInTV": {
+      "id": "5VHKcFInTV",
+      "title": "Get a Sol Mates Profile Background!",
+      "quest_text": "\"Link Steam, Clip Game, Get Sol Mates Profile Background\"",
+      "reward_name": "Sol Mates",
+      "reward_desc": "Profile Background",
+      "startsAt": 1781495700000,
+      "endsAt": 1781927700000
+    },
+    "5UlNfQs4-e": {
+      "id": "5UlNfQs4-e",
+      "title": "Sol Mates Key Giveaway",
+      "quest_text": "\"Link Steam, Enable Auto Clipping, Clip Beating the Boss, Get Launch Key\"",
+      "reward_name": "Sol Mates",
+      "reward_desc": "Redeem and play on Steam",
+      "startsAt": 1781495700000,
+      "endsAt": 1781927700000
+    },
+    "5TKoNhh3QL": {
+      "id": "5TKoNhh3QL",
+      "title": "V.A.U.L.T. Protocol Key Giveaway",
+      "quest_text": "Clip Vault, Share with a Friend, Get a Free Key",
+      "reward_name": "V.A.U.L.T. Protocol",
+      "reward_desc": "Redeem and play on Steam",
+      "startsAt": 1781495700000,
+      "endsAt": 1781927700000
+    },
+    "5XJLRRhuXi": {
+      "id": "5XJLRRhuXi",
+      "title": "Empulse Early Access Gun Skin!",
+      "quest_text": "Clip Game, Get an In-Game Cosmetic Code to redeem in the game when it comes out in early access",
+      "reward_name": "Empulse Listra Gun Skin",
+      "reward_desc": "Redeem your reward in the Empulse in-game cosmetics store.",
+      "startsAt": 1781495700000,
+      "endsAt": 1782100500000
+    },
+    "5WjtHJ0s9M": {
+      "id": "5WjtHJ0s9M",
+      "title": "Empulse Key Giveaway",
+      "quest_text": "Clip Empulse, Share with a Friend, Redeem Launch Key",
+      "reward_name": "Empulse",
+      "reward_desc": "Redeem and play on Steam",
+      "startsAt": 1781495700000,
+      "endsAt": 1782100500000
+    },
+    "6lAl6XIkND": {
+      "id": "6lAl6XIkND",
+      "title": "Birds of War Key Giveaway",
+      "quest_text": "Clip Vault, Share with a Friend, Get a Free Key",
+      "reward_name": "Birds of War",
+      "reward_desc": "Redeem and play on Steam",
+      "startsAt": 1781542800000,
+      "endsAt": 1781802000000
     }
   }
 }
