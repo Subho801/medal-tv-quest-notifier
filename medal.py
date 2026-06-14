@@ -5,7 +5,7 @@ from html import unescape
 
 import requests
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1515751123846168666/cLA-jiWaQyZyPWD2w-qshsg7KyBfy4I910Ok_c52ru5FVfX1Zvh1DOgwge4ZebqobD9O"
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 ROLE_PING = "<@&1515752173533790218>"
 
 AUTHOR_ICON_URL = "https://files.catbox.moe/rusxk8.png"
