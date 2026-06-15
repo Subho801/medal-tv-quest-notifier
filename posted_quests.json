@@ -441,14 +441,14 @@
       "startsAt": 1781540100000,
       "endsAt": null
     },
-    "5MY7v3Yh9f": {
-      "id": "5MY7v3Yh9f",
-      "title": "Sleeping Kitten UGC | June 15, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Sleeping Kitten",
-      "reward_desc": "No reward description",
-      "startsAt": 1781546400000,
-      "endsAt": 1782878340000
+    "5v7mGzcGew": {
+      "id": "5v7mGzcGew",
+      "title": "Pool Party Profile Background | June 2, 2026",
+      "quest_text": "The reward is for a profile background on Medal TV. Users will need to equip the reward on their profile once quest has been redeemed. Once the quest is over, there is no other way to obtain this profile background.",
+      "reward_name": "Pool Party Profile Background",
+      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
+      "startsAt": 1780423200000,
+      "endsAt": 1782889140000
     }
   }
 }
