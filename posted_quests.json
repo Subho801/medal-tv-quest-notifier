@@ -360,15 +360,6 @@
       "startsAt": 1781283600000,
       "endsAt": null
     },
-    "4YAbNbneGx": {
-      "id": "4YAbNbneGx",
-      "title": "War Tycoon | FN-2000",
-      "quest_text": "Not provided",
-      "reward_name": "FN-2000",
-      "reward_desc": "Medal Exclusive In-Game Reward",
-      "startsAt": 1781361000000,
-      "endsAt": 1783782000000
-    },
     "61CvNdestM": {
       "id": "61CvNdestM",
       "title": "Noob Tower Defense x Medal",
@@ -449,6 +440,15 @@
       "reward_desc": "Redeem and play on Steam",
       "startsAt": 1781542800000,
       "endsAt": 1781802000000
+    },
+    "5QBGgQi5W1": {
+      "id": "5QBGgQi5W1",
+      "title": "Shadow Battlegrounds x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "In-Game Title, XP, and Aura",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781540100000,
+      "endsAt": null
     }
   }
 }
