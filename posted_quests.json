@@ -1,14 +1,5 @@
 {
   "active": {
-    "zs1TKBNfn": {
-      "id": "zs1TKBNfn",
-      "title": "Purple Prison x Medal",
-      "quest_text": "Not provided",
-      "reward_name": "1x Medal Box",
-      "reward_desc": "Redeem on the Purple Prison server",
-      "startsAt": 1742515200000,
-      "endsAt": null
-    },
     "1CpRz8e4aP": {
       "id": "1CpRz8e4aP",
       "title": "Energy Assault",
@@ -449,6 +440,15 @@
       "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
       "startsAt": 1780423200000,
       "endsAt": 1782889140000
+    },
+    "4YAbNbneGx": {
+      "id": "4YAbNbneGx",
+      "title": "War Tycoon | FN-2000",
+      "quest_text": "Not provided",
+      "reward_name": "FN-2000",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781361000000,
+      "endsAt": 1783782000000
     }
   }
 }
