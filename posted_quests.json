@@ -288,24 +288,6 @@
       "startsAt": 1781114400000,
       "endsAt": 1782889140000
     },
-    "5SJLcb92cN": {
-      "id": "5SJLcb92cN",
-      "title": "Discounts on Gaming Gift Cards!",
-      "quest_text": "Clip Terrinoth, Share Clip with Friend, Redeem a Gift Card Code For Get Stan -- \"20% off up to $10 on Your First Order\"",
-      "reward_name": "Up to $10 Off Your First StanShop Order!",
-      "reward_desc": "Use your reward code in the checkout at StanShop.",
-      "startsAt": 1781150100000,
-      "endsAt": 1781754900000
-    },
-    "5RLA0CedC5": {
-      "id": "5RLA0CedC5",
-      "title": "Terrinoth\u00ae: Heroes of Descent Key Giveaway",
-      "quest_text": "Clip Terrinoth TWICE, Connect Steam Account, Share Clip with Friend, Redeem a Key FOR A FRIEND",
-      "reward_name": "Terrinoth\u00ae: Heroes of Descent",
-      "reward_desc": "Redeem and play on Steam",
-      "startsAt": 1781150100000,
-      "endsAt": 1781754900000
-    },
     "63ok2o4MIx": {
       "id": "63ok2o4MIx",
       "title": "Dive Down x Medal",
@@ -314,15 +296,6 @@
       "reward_desc": "Medal Exclusive In-Game Reward",
       "startsAt": 1781377200000,
       "endsAt": null
-    },
-    "65zY3nS9FJ": {
-      "id": "65zY3nS9FJ",
-      "title": "Get A Free Trial of Medal Premium!",
-      "quest_text": "Clip Terrinoth, get medal premium",
-      "reward_name": "2 Days of Medal Premium",
-      "reward_desc": "No reward description",
-      "startsAt": 1781263800000,
-      "endsAt": 1781754900000
     },
     "5jroPMSGPU": {
       "id": "5jroPMSGPU",
@@ -449,6 +422,33 @@
       "reward_desc": "Medal Exclusive In-Game Reward",
       "startsAt": 1781361000000,
       "endsAt": 1783782000000
+    },
+    "5FJdvqsv7X": {
+      "id": "5FJdvqsv7X",
+      "title": "Prism Balloons UGC | June 12, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Prism Balloons",
+      "reward_desc": "Collaboration with Prism Runway Show!",
+      "startsAt": 1781287200000,
+      "endsAt": 1782889140000
+    },
+    "5GQFQ9tyrT": {
+      "id": "5GQFQ9tyrT",
+      "title": "100 Robux | June 13, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "100 Robux",
+      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
+      "startsAt": 1781373600000,
+      "endsAt": 1782889140000
+    },
+    "5MY7v3Yh9f": {
+      "id": "5MY7v3Yh9f",
+      "title": "Sleeping Kitten UGC | June 15, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Sleeping Kitten",
+      "reward_desc": "No reward description",
+      "startsAt": 1781546400000,
+      "endsAt": 1782878340000
     }
   }
 }
