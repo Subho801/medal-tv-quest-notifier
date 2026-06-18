@@ -387,15 +387,6 @@
       "startsAt": 1781495700000,
       "endsAt": 1782100500000
     },
-    "6lAl6XIkND": {
-      "id": "6lAl6XIkND",
-      "title": "Birds of War Key Giveaway",
-      "quest_text": "Clip Vault, Share with a Friend, Get a Free Key",
-      "reward_name": "Birds of War",
-      "reward_desc": "Redeem and play on Steam",
-      "startsAt": 1781542800000,
-      "endsAt": 1781802000000
-    },
     "5QBGgQi5W1": {
       "id": "5QBGgQi5W1",
       "title": "Shadow Battlegrounds x Medal",
@@ -449,6 +440,15 @@
       "reward_desc": "No reward description",
       "startsAt": 1781546400000,
       "endsAt": 1782878340000
+    },
+    "5EZVNKwNul": {
+      "id": "5EZVNKwNul",
+      "title": "Medal Hoodie UGC | June 11, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Medal Hoodie",
+      "reward_desc": "No reward description",
+      "startsAt": 1781200800000,
+      "endsAt": 1782889140000
     }
   }
 }
