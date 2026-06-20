@@ -360,15 +360,6 @@
       "startsAt": 1781495700000,
       "endsAt": 1781927700000
     },
-    "5TKoNhh3QL": {
-      "id": "5TKoNhh3QL",
-      "title": "V.A.U.L.T. Protocol Key Giveaway",
-      "quest_text": "Clip Vault, Share with a Friend, Get a Free Key",
-      "reward_name": "V.A.U.L.T. Protocol",
-      "reward_desc": "Redeem and play on Steam",
-      "startsAt": 1781495700000,
-      "endsAt": 1781927700000
-    },
     "5XJLRRhuXi": {
       "id": "5XJLRRhuXi",
       "title": "Empulse Early Access Gun Skin!",
@@ -448,6 +439,15 @@
       "reward_name": "Medal Hoodie",
       "reward_desc": "No reward description",
       "startsAt": 1781200800000,
+      "endsAt": 1782889140000
+    },
+    "5CypxA0geC": {
+      "id": "5CypxA0geC",
+      "title": "Soccer Kart UGC | June 9, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Soccer Kart",
+      "reward_desc": "Collaboration with Emergency Emden!",
+      "startsAt": 1781028000000,
       "endsAt": 1782889140000
     }
   }
