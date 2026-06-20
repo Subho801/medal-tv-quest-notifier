@@ -342,24 +342,6 @@
       "startsAt": 1781460000000,
       "endsAt": 1782878340000
     },
-    "5VHKcFInTV": {
-      "id": "5VHKcFInTV",
-      "title": "Get a Sol Mates Profile Background!",
-      "quest_text": "\"Link Steam, Clip Game, Get Sol Mates Profile Background\"",
-      "reward_name": "Sol Mates",
-      "reward_desc": "Profile Background",
-      "startsAt": 1781495700000,
-      "endsAt": 1781927700000
-    },
-    "5UlNfQs4-e": {
-      "id": "5UlNfQs4-e",
-      "title": "Sol Mates Key Giveaway",
-      "quest_text": "\"Link Steam, Enable Auto Clipping, Clip Beating the Boss, Get Launch Key\"",
-      "reward_name": "Sol Mates",
-      "reward_desc": "Redeem and play on Steam",
-      "startsAt": 1781495700000,
-      "endsAt": 1781927700000
-    },
     "5XJLRRhuXi": {
       "id": "5XJLRRhuXi",
       "title": "Empulse Early Access Gun Skin!",
@@ -448,6 +430,24 @@
       "reward_name": "Soccer Kart",
       "reward_desc": "Collaboration with Emergency Emden!",
       "startsAt": 1781028000000,
+      "endsAt": 1782889140000
+    },
+    "5xHr5dwJha": {
+      "id": "5xHr5dwJha",
+      "title": "100 Robux | June 4, 2026",
+      "quest_text": "You must earn the Challenge Tower badge in Parkour Legacy to complete this quest. Earn the badge by completing the tutorial and completing your first tower. The clip for this quest must be in Parkour Legacy and publicly uploaded to your Medal profile with the correct subgame tagged.",
+      "reward_name": "100 Robux",
+      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
+      "startsAt": 1780596000000,
+      "endsAt": 1782889140000
+    },
+    "5zDwOQX8kK": {
+      "id": "5zDwOQX8kK",
+      "title": "Epic Minigames Egg UGC | June 6, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Epic Minigames Egg",
+      "reward_desc": "Collaboration with Epic Minigames!",
+      "startsAt": 1780768800000,
       "endsAt": 1782889140000
     }
   }
