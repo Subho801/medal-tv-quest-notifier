@@ -432,15 +432,6 @@
       "startsAt": 1780768800000,
       "endsAt": 1782889140000
     },
-    "5ugKfsOMxM": {
-      "id": "5ugKfsOMxM",
-      "title": "100 Robux Quest | June 1, 2026",
-      "quest_text": "This quest is only available on PC! Users must clip the Roblox game \"BloxStrike\" 3 times, and post their best clip from \"BloxStrike\" publicly to their Medal profile. Robux is processed within 21 days of redeeming the Quest reward. If clips are not counting towards this quest, please make sure the correct Roblox subgame is attached to your Medal clips. If subgame is not detecting, close Roblox client and relaunch into the game. Your phone number must be verified to claim.",
-      "reward_name": "100 Robux",
-      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
-      "startsAt": 1780336800000,
-      "endsAt": 1782889140000
-    },
     "5wZli1lpjY": {
       "id": "5wZli1lpjY",
       "title": "Fairy Medal Hammer UGC | June 3, 2026",
@@ -449,6 +440,15 @@
       "reward_desc": "No reward description",
       "startsAt": 1780509600000,
       "endsAt": 1782889140000
+    },
+    "66zoTGO1EZ": {
+      "id": "66zoTGO1EZ",
+      "title": "Fireworks UGC | July 1, 2026",
+      "quest_text": "Available on Mobile and PC.",
+      "reward_name": "Fireworks Aura",
+      "reward_desc": "No reward description",
+      "startsAt": 1782928800000,
+      "endsAt": 1785556740000
     }
   }
 }
