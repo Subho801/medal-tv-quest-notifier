@@ -432,15 +432,6 @@
       "startsAt": 1780768800000,
       "endsAt": 1782889140000
     },
-    "5wZli1lpjY": {
-      "id": "5wZli1lpjY",
-      "title": "Fairy Medal Hammer UGC | June 3, 2026",
-      "quest_text": "Available on Mobile and PC. Clip Hypershot on Roblox 3 times and post your best hypershot clip publicly to your medal profile to claim.",
-      "reward_name": "Fairy Medal Hammer",
-      "reward_desc": "No reward description",
-      "startsAt": 1780509600000,
-      "endsAt": 1782889140000
-    },
     "66zoTGO1EZ": {
       "id": "66zoTGO1EZ",
       "title": "Fireworks UGC | July 1, 2026",
@@ -449,6 +440,15 @@
       "reward_desc": "No reward description",
       "startsAt": 1782928800000,
       "endsAt": 1785556740000
+    },
+    "6qXlr75kcd": {
+      "id": "6qXlr75kcd",
+      "title": "Epic Katana Wings | Limited UGC",
+      "quest_text": "Available for PC only and available for NEW medal users or have been recently referred by user Rolimons Earn the badge by Completing Dr. Valen's Cargo Delivery tasks.",
+      "reward_name": "Epic Katana Wings",
+      "reward_desc": "Collaboration with Rolimons!",
+      "startsAt": 1782500400000,
+      "endsAt": 1783796400000
     }
   }
 }
