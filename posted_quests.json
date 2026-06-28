@@ -198,15 +198,6 @@
       "startsAt": 1778936400000,
       "endsAt": null
     },
-    "5nMnZpcL7y": {
-      "id": "5nMnZpcL7y",
-      "title": "Superstar Baseball x Medal",
-      "quest_text": "Clip using F8 and post your best Superstar Baseball moments from Roblox onto Medal. Mobile users can upload their screen recordings to the Medal mobile app.",
-      "reward_name": "10 Lucky Spins",
-      "reward_desc": "Medal Exclusive In-Game Reward",
-      "startsAt": 1778972400000,
-      "endsAt": null
-    },
     "5sgZwaqJSF": {
       "id": "5sgZwaqJSF",
       "title": "Pixel Quest x Medal",
@@ -449,6 +440,15 @@
       "reward_desc": "Collaboration with Rolimons!",
       "startsAt": 1782500400000,
       "endsAt": 1783796400000
+    },
+    "5wZli1lpjY": {
+      "id": "5wZli1lpjY",
+      "title": "Fairy Medal Hammer UGC | June 3, 2026",
+      "quest_text": "Available on Mobile and PC. Clip Hypershot on Roblox 3 times and post your best hypershot clip publicly to your medal profile to claim.",
+      "reward_name": "Fairy Medal Hammer",
+      "reward_desc": "No reward description",
+      "startsAt": 1780509600000,
+      "endsAt": 1782889140000
     }
   }
 }
