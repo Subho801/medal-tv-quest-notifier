@@ -350,6 +350,78 @@
       "reward_desc": "Collaboration with Epic Minigames!",
       "startsAt": 1780768800000,
       "endsAt": 1782889140000
+    },
+    "4cHAiiVsjE": {
+      "id": "4cHAiiVsjE",
+      "title": "Airsoft Battles x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "MCW 6.8 + $50,000 in-game Cash",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1770400800000,
+      "endsAt": null
+    },
+    "4HDQrq41qa": {
+      "id": "4HDQrq41qa",
+      "title": "Traitor VS Sheriff DUELS x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Medal Axe, Medal Blade, +5000 Coins",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1775228400000,
+      "endsAt": null
+    },
+    "4MGR29hF4a": {
+      "id": "4MGR29hF4a",
+      "title": "MM2 Aim Trainer x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "God Hammer",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1775533320000,
+      "endsAt": null
+    },
+    "4OGEwkjwsv": {
+      "id": "4OGEwkjwsv",
+      "title": "Last Letter x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Cinema Camo and 15,000 Coins",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1776417540000,
+      "endsAt": null
+    },
+    "4Qm6qGH8N_": {
+      "id": "4Qm6qGH8N_",
+      "title": "Burrowed Fears x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "Dart Gun and Banana Peel",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1776655140000,
+      "endsAt": null
+    },
+    "5wZli1lpjY": {
+      "id": "5wZli1lpjY",
+      "title": "Fairy Medal Hammer UGC | June 3, 2026",
+      "quest_text": "Available on Mobile and PC. Clip Hypershot on Roblox 3 times and post your best hypershot clip publicly to your medal profile to claim.",
+      "reward_name": "Fairy Medal Hammer",
+      "reward_desc": "No reward description",
+      "startsAt": 1780509600000,
+      "endsAt": 1782889140000
+    },
+    "5r5Xbx4rA9": {
+      "id": "5r5Xbx4rA9",
+      "title": "+1 Speed Keyboard Escape x Medal",
+      "quest_text": "Clip or post +1 Speed Keyboard Escape and connect your Medal account to redeem this quest. Make sure +1 Speed Keyboard Escape is tagged on your clip for it to count.",
+      "reward_name": "Cookie Bag + Medal Aura",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1780750200000,
+      "endsAt": null
+    },
+    "5QBGgQi5W1": {
+      "id": "5QBGgQi5W1",
+      "title": "Shadow Battlegrounds x Medal",
+      "quest_text": "Not provided",
+      "reward_name": "In-Game Title, XP, and Aura",
+      "reward_desc": "Medal Exclusive In-Game Reward",
+      "startsAt": 1781540100000,
+      "endsAt": null
     }
   }
 }
