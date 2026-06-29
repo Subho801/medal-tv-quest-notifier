@@ -422,6 +422,33 @@
       "reward_desc": "Medal Exclusive In-Game Reward",
       "startsAt": 1781540100000,
       "endsAt": null
+    },
+    "5FJdvqsv7X": {
+      "id": "5FJdvqsv7X",
+      "title": "Prism Balloons UGC | June 12, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Prism Balloons",
+      "reward_desc": "Collaboration with Prism Runway Show!",
+      "startsAt": 1781287200000,
+      "endsAt": 1782889140000
+    },
+    "6qXlr75kcd": {
+      "id": "6qXlr75kcd",
+      "title": "Epic Katana Wings | Limited UGC",
+      "quest_text": "Available for PC only and available for NEW medal users or have been recently referred by user Rolimons Earn the badge by Completing Dr. Valen's Cargo Delivery tasks.",
+      "reward_name": "Epic Katana Wings",
+      "reward_desc": "Collaboration with Rolimons!",
+      "startsAt": 1782500400000,
+      "endsAt": 1783796400000
+    },
+    "66zoTGO1EZ": {
+      "id": "66zoTGO1EZ",
+      "title": "Fireworks UGC | July 1, 2026",
+      "quest_text": "Available on Mobile and PC.",
+      "reward_name": "Fireworks Aura",
+      "reward_desc": "No reward description",
+      "startsAt": 1782928800000,
+      "endsAt": 1785556740000
     }
   }
 }
