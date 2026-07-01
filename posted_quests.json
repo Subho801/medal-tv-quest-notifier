@@ -315,15 +315,6 @@
       "startsAt": 1782928800000,
       "endsAt": 1785556740000
     },
-    "67oPEmWLg9": {
-      "id": "67oPEmWLg9",
-      "title": "100 Robux Quest | July 2, 2026",
-      "quest_text": "This quest is only available on PC! Users must clip the Roblox game \"Tower Defense Simulator\" 1 time, and post your best clip from \"Tower Defense Simulator\" publicly to their Medal profile. Robux is processed within 21 days of redeeming the Quest reward. If clips are not counting towards this quest, please make sure the correct Roblox subgame is attached to your Medal clips. If subgame is not detecting, close Roblox client and relaunch into the game. Your phone number must be verified to claim.",
-      "reward_name": "100 Robux",
-      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
-      "startsAt": 1783015200000,
-      "endsAt": 1785567540000
-    },
     "68T344W6hj": {
       "id": "68T344W6hj",
       "title": "Gamer Desk Profile Background | July 3, 2026",
@@ -430,6 +421,33 @@
       "reward_name": "Honk AK",
       "reward_desc": "No reward description",
       "startsAt": 1784138400000,
+      "endsAt": 1785567540000
+    },
+    "5v7mGzcGew": {
+      "id": "5v7mGzcGew",
+      "title": "Pool Party Profile Background | June 2, 2026",
+      "quest_text": "The reward is for a profile background on Medal TV. Users will need to equip the reward on their profile once quest has been redeemed. Once the quest is over, there is no other way to obtain this profile background.",
+      "reward_name": "Pool Party Profile Background",
+      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
+      "startsAt": 1780423200000,
+      "endsAt": 1788245940000
+    },
+    "5BToMwxEKv": {
+      "id": "5BToMwxEKv",
+      "title": "Pixel Palms Profile Background | June 8, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "Pixel Palms Profile Background",
+      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
+      "startsAt": 1780941600000,
+      "endsAt": 1788245940000
+    },
+    "6ild-Smf47": {
+      "id": "6ild-Smf47",
+      "title": "100 Robux | July 13, 2026",
+      "quest_text": "Not provided",
+      "reward_name": "100 Robux",
+      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
+      "startsAt": 1783965600000,
       "endsAt": 1785567540000
     }
   }
