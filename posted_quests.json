@@ -108,15 +108,6 @@
       "startsAt": 1772098080000,
       "endsAt": null
     },
-    "4zq2Z-oCSC": {
-      "id": "4zq2Z-oCSC",
-      "title": "Fallen Survival x Medal",
-      "quest_text": "Not provided",
-      "reward_name": "Medal Gun Skins and Armor Bundle",
-      "reward_desc": "Medal Exclusive In-Game Reward",
-      "startsAt": 1774638000000,
-      "endsAt": null
-    },
     "4jVkRmK7zD": {
       "id": "4jVkRmK7zD",
       "title": "Zombie War Tycoon x Medal",
@@ -270,15 +261,6 @@
       "startsAt": 1781380800000,
       "endsAt": null
     },
-    "5H9HoVzIgT": {
-      "id": "5H9HoVzIgT",
-      "title": "Quest Bound Achievement | June 14, 2026",
-      "quest_text": "users must complete and redeem current active in-game Roblox integration rewards. The Medal quests that count for this quest are in the following games on Roblox: Violence District, Weird Gun Game, Airsoft Battles, Ground War, Survive Zombie Arena, Energy Assault, Warfare Tycoon, Zombie War Tycoon, Crab Royale, Last Letter, MM2 Aim Trainer, Burrowed Fears, Case Paradise, War Tycoon FN-2000, Bite By Night, Violence District, Beat Bounce, Operation One, Superstar Baseball, +1 Speed Keyboard Escape, Pixel Quest, Hell Rails, Combat Initiation, Shadow Battlegrounds, Noob Tower Defense, Dive Down, Classic Gun Game",
-      "reward_name": "Quest Bound Achievement",
-      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
-      "startsAt": 1781460000000,
-      "endsAt": 1782878340000
-    },
     "5v7mGzcGew": {
       "id": "5v7mGzcGew",
       "title": "Pool Party Profile Background | June 2, 2026",
@@ -305,15 +287,6 @@
       "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
       "startsAt": 1781373600000,
       "endsAt": 1782889140000
-    },
-    "5MY7v3Yh9f": {
-      "id": "5MY7v3Yh9f",
-      "title": "Sleeping Kitten UGC | June 15, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Sleeping Kitten",
-      "reward_desc": "No reward description",
-      "startsAt": 1781546400000,
-      "endsAt": 1782878340000
     },
     "5EZVNKwNul": {
       "id": "5EZVNKwNul",
@@ -449,6 +422,15 @@
       "reward_desc": "No reward description",
       "startsAt": 1782928800000,
       "endsAt": 1785556740000
+    },
+    "5ugKfsOMxM": {
+      "id": "5ugKfsOMxM",
+      "title": "100 Robux Quest | June 1, 2026",
+      "quest_text": "This quest is only available on PC! Users must clip the Roblox game \"BloxStrike\" 3 times, and post their best clip from \"BloxStrike\" publicly to their Medal profile. Robux is processed within 21 days of redeeming the Quest reward. If clips are not counting towards this quest, please make sure the correct Roblox subgame is attached to your Medal clips. If subgame is not detecting, close Roblox client and relaunch into the game. Your phone number must be verified to claim.",
+      "reward_name": "100 Robux",
+      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
+      "startsAt": 1780336800000,
+      "endsAt": 1782889140000
     }
   }
 }
