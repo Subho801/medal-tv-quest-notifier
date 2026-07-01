@@ -171,15 +171,6 @@
       "startsAt": 1779951600000,
       "endsAt": null
     },
-    "5yY1szu_w0": {
-      "id": "5yY1szu_w0",
-      "title": "1 Week Medal Premium | June 5, 2026",
-      "quest_text": "Share clips from your Medal profile to Discord. Hit 'Share' on 3 different clips and share to Discord.",
-      "reward_name": "1 Week of Medal Premium Subscription",
-      "reward_desc": "No reward description",
-      "startsAt": 1780682400000,
-      "endsAt": 1782889140000
-    },
     "5KDNEL343I": {
       "id": "5KDNEL343I",
       "title": "Combat Initiation x Medal",
@@ -188,33 +179,6 @@
       "reward_desc": "Medal Exclusive In-Game Reward",
       "startsAt": 1780686000000,
       "endsAt": null
-    },
-    "5AQdq8pE4t": {
-      "id": "5AQdq8pE4t",
-      "title": "Party Goer Achievement | June 7, 2026",
-      "quest_text": "A user must connect their roblox account and have completed and redeemed any of the Roblox Summer 2026 quests. 2 of the quests must be redeemed in order to count. Only quests from the Roblox Summer 2026 quests qualify for this.",
-      "reward_name": "Party Goer Achievement",
-      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
-      "startsAt": 1780855200000,
-      "endsAt": 1782889140000
-    },
-    "5BToMwxEKv": {
-      "id": "5BToMwxEKv",
-      "title": "Pixel Palms Profile Background | June 8, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Pixel Palms Profile Background",
-      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
-      "startsAt": 1780941600000,
-      "endsAt": 1782889140000
-    },
-    "5Dm_BWC55o": {
-      "id": "5Dm_BWC55o",
-      "title": "1 Week Medal Premium | June 10, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "1 Week of Medal Premium Subscription",
-      "reward_desc": "No reward description",
-      "startsAt": 1781114400000,
-      "endsAt": 1782889140000
     },
     "63ok2o4MIx": {
       "id": "63ok2o4MIx",
@@ -261,15 +225,6 @@
       "startsAt": 1781380800000,
       "endsAt": null
     },
-    "5v7mGzcGew": {
-      "id": "5v7mGzcGew",
-      "title": "Pool Party Profile Background | June 2, 2026",
-      "quest_text": "The reward is for a profile background on Medal TV. Users will need to equip the reward on their profile once quest has been redeemed. Once the quest is over, there is no other way to obtain this profile background.",
-      "reward_name": "Pool Party Profile Background",
-      "reward_desc": "Summer Blox Party 2026 Exclusive Reward",
-      "startsAt": 1780423200000,
-      "endsAt": 1782889140000
-    },
     "4YAbNbneGx": {
       "id": "4YAbNbneGx",
       "title": "War Tycoon | FN-2000",
@@ -278,51 +233,6 @@
       "reward_desc": "Medal Exclusive In-Game Reward",
       "startsAt": 1781361000000,
       "endsAt": 1783782000000
-    },
-    "5GQFQ9tyrT": {
-      "id": "5GQFQ9tyrT",
-      "title": "100 Robux | June 13, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "100 Robux",
-      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
-      "startsAt": 1781373600000,
-      "endsAt": 1782889140000
-    },
-    "5EZVNKwNul": {
-      "id": "5EZVNKwNul",
-      "title": "Medal Hoodie UGC | June 11, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Medal Hoodie",
-      "reward_desc": "No reward description",
-      "startsAt": 1781200800000,
-      "endsAt": 1782889140000
-    },
-    "5CypxA0geC": {
-      "id": "5CypxA0geC",
-      "title": "Soccer Kart UGC | June 9, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Soccer Kart",
-      "reward_desc": "Collaboration with Emergency Emden!",
-      "startsAt": 1781028000000,
-      "endsAt": 1782889140000
-    },
-    "5xHr5dwJha": {
-      "id": "5xHr5dwJha",
-      "title": "100 Robux | June 4, 2026",
-      "quest_text": "You must earn the Challenge Tower badge in Parkour Legacy to complete this quest. Earn the badge by completing the tutorial and completing your first tower. The clip for this quest must be in Parkour Legacy and publicly uploaded to your Medal profile with the correct subgame tagged.",
-      "reward_name": "100 Robux",
-      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
-      "startsAt": 1780596000000,
-      "endsAt": 1782889140000
-    },
-    "5zDwOQX8kK": {
-      "id": "5zDwOQX8kK",
-      "title": "Epic Minigames Egg UGC | June 6, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Epic Minigames Egg",
-      "reward_desc": "Collaboration with Epic Minigames!",
-      "startsAt": 1780768800000,
-      "endsAt": 1782889140000
     },
     "4cHAiiVsjE": {
       "id": "4cHAiiVsjE",
@@ -369,15 +279,6 @@
       "startsAt": 1776655140000,
       "endsAt": null
     },
-    "5wZli1lpjY": {
-      "id": "5wZli1lpjY",
-      "title": "Fairy Medal Hammer UGC | June 3, 2026",
-      "quest_text": "Available on Mobile and PC. Clip Hypershot on Roblox 3 times and post your best hypershot clip publicly to your medal profile to claim.",
-      "reward_name": "Fairy Medal Hammer",
-      "reward_desc": "No reward description",
-      "startsAt": 1780509600000,
-      "endsAt": 1782889140000
-    },
     "5r5Xbx4rA9": {
       "id": "5r5Xbx4rA9",
       "title": "+1 Speed Keyboard Escape x Medal",
@@ -396,15 +297,6 @@
       "startsAt": 1781540100000,
       "endsAt": null
     },
-    "5FJdvqsv7X": {
-      "id": "5FJdvqsv7X",
-      "title": "Prism Balloons UGC | June 12, 2026",
-      "quest_text": "Not provided",
-      "reward_name": "Prism Balloons",
-      "reward_desc": "Collaboration with Prism Runway Show!",
-      "startsAt": 1781287200000,
-      "endsAt": 1782889140000
-    },
     "6qXlr75kcd": {
       "id": "6qXlr75kcd",
       "title": "Epic Katana Wings | Limited UGC",
@@ -422,15 +314,6 @@
       "reward_desc": "No reward description",
       "startsAt": 1782928800000,
       "endsAt": 1785556740000
-    },
-    "5ugKfsOMxM": {
-      "id": "5ugKfsOMxM",
-      "title": "100 Robux Quest | June 1, 2026",
-      "quest_text": "This quest is only available on PC! Users must clip the Roblox game \"BloxStrike\" 3 times, and post their best clip from \"BloxStrike\" publicly to their Medal profile. Robux is processed within 21 days of redeeming the Quest reward. If clips are not counting towards this quest, please make sure the correct Roblox subgame is attached to your Medal clips. If subgame is not detecting, close Roblox client and relaunch into the game. Your phone number must be verified to claim.",
-      "reward_name": "100 Robux",
-      "reward_desc": "Earn Robux to use anywhere on the Roblox platform!",
-      "startsAt": 1780336800000,
-      "endsAt": 1782889140000
     }
   }
 }
